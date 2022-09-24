@@ -1,4 +1,6 @@
-package com.mthaker.bankapp.dao;
+package com.mthaler.bankapp.dao;
+
+import com.mthaler.bankapp.domain.BankAccountDetails;
 
 public interface BankAccountDao {
 
